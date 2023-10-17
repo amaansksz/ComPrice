@@ -1,0 +1,344 @@
+2023-10-16 12:29:03,082 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 16428
+2023-10-16 12:29:03,605 - DEBUG - POST http://localhost:64381/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:29:03,607 - DEBUG - Starting new HTTP connection (1): localhost:64381
+2023-10-16 12:29:04,162 - DEBUG - http://localhost:64381 "POST /session HTTP/1.1" 200 885
+2023-10-16 12:29:04,162 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir16428_1930520796"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64384"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"fb20dd243e70ba0dfbd9a4de69e24587"}} | headers=HTTPHeaderDict({'Content-Length': '885', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:29:04,164 - DEBUG - Finished Request
+2023-10-16 12:29:04,165 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 1412
+2023-10-16 12:29:04,677 - DEBUG - POST http://localhost:64390/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:29:04,678 - DEBUG - Starting new HTTP connection (1): localhost:64390
+2023-10-16 12:29:05,206 - DEBUG - http://localhost:64390 "POST /session HTTP/1.1" 200 883
+2023-10-16 12:29:05,206 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir1412_245329909"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64394"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"b9399028c2336a7ae5b44f07fa1c3742"}} | headers=HTTPHeaderDict({'Content-Length': '883', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:29:05,206 - DEBUG - Finished Request
+2023-10-16 12:29:05,215 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 16728
+2023-10-16 12:29:05,725 - DEBUG - POST http://localhost:64400/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:29:05,727 - DEBUG - Starting new HTTP connection (1): localhost:64400
+2023-10-16 12:29:06,318 - DEBUG - http://localhost:64400 "POST /session HTTP/1.1" 200 884
+2023-10-16 12:29:06,318 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir16728_541217568"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64404"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"37ae72cb9927e45d1a69d3bfae073854"}} | headers=HTTPHeaderDict({'Content-Length': '884', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:29:06,318 - DEBUG - Finished Request
+2023-10-16 12:29:06,322 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 4592
+2023-10-16 12:29:06,832 - DEBUG - POST http://localhost:64410/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:29:06,832 - DEBUG - Starting new HTTP connection (1): localhost:64410
+2023-10-16 12:29:07,354 - DEBUG - http://localhost:64410 "POST /session HTTP/1.1" 200 883
+2023-10-16 12:29:07,354 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir4592_545283784"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64414"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"d5a82b67061a1dd51f701a2b530abdae"}} | headers=HTTPHeaderDict({'Content-Length': '883', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:29:07,354 - DEBUG - Finished Request
+2023-10-16 12:29:07,354 - DEBUG - POST http://localhost:64381/session/fb20dd243e70ba0dfbd9a4de69e24587/url {"url": "https://www.croma.com/search/?text=Iphone%2013"}
+2023-10-16 12:29:10,508 - DEBUG - http://localhost:64381 "POST /session/fb20dd243e70ba0dfbd9a4de69e24587/url HTTP/1.1" 200 14
+2023-10-16 12:29:10,508 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:29:10,508 - DEBUG - Finished Request
+2023-10-16 12:29:10,647 - DEBUG - POST http://localhost:64381/session/fb20dd243e70ba0dfbd9a4de69e24587/element {"using": "css selector", "value": {"class": "product-title"}}
+2023-10-16 12:29:10,650 - DEBUG - http://localhost:64381 "POST /session/fb20dd243e70ba0dfbd9a4de69e24587/element HTTP/1.1" 400 993
+2023-10-16 12:29:10,650 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:29:10,652 - DEBUG - Finished Request
+2023-10-16 12:29:10,652 - ERROR - Error occurred while searching on Croma: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:29:10,652 - DEBUG - POST http://localhost:64390/session/b9399028c2336a7ae5b44f07fa1c3742/url {"url": "https://www.vijaysales.com/search/Iphone-13"}
+2023-10-16 12:30:12,777 - DEBUG - http://localhost:64390 "POST /session/b9399028c2336a7ae5b44f07fa1c3742/url HTTP/1.1" 200 14
+2023-10-16 12:30:12,777 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:12,778 - DEBUG - Finished Request
+2023-10-16 12:30:12,779 - DEBUG - POST http://localhost:64390/session/b9399028c2336a7ae5b44f07fa1c3742/element {"using": "css selector", "value": {"class": "Dynamic-Bucket-ProductName"}}
+2023-10-16 12:30:12,782 - DEBUG - http://localhost:64390 "POST /session/b9399028c2336a7ae5b44f07fa1c3742/element HTTP/1.1" 400 993
+2023-10-16 12:30:12,782 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:12,783 - DEBUG - Finished Request
+2023-10-16 12:30:12,783 - ERROR - Error occurred while searching on Vijay Sales: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:30:12,783 - DEBUG - POST http://localhost:64400/session/37ae72cb9927e45d1a69d3bfae073854/url {"url": "https://www.amazon.in/s?k=Iphone+13"}
+2023-10-16 12:30:15,107 - DEBUG - http://localhost:64400 "POST /session/37ae72cb9927e45d1a69d3bfae073854/url HTTP/1.1" 200 14
+2023-10-16 12:30:15,108 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:15,108 - DEBUG - Finished Request
+2023-10-16 12:30:15,110 - DEBUG - POST http://localhost:64400/session/37ae72cb9927e45d1a69d3bfae073854/element {"using": "css selector", "value": {"class": "a-text-normal"}}
+2023-10-16 12:30:15,114 - DEBUG - http://localhost:64400 "POST /session/37ae72cb9927e45d1a69d3bfae073854/element HTTP/1.1" 400 993
+2023-10-16 12:30:15,114 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:15,115 - DEBUG - Finished Request
+2023-10-16 12:30:15,115 - ERROR - Error occurred while searching on Amazon: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:30:15,115 - DEBUG - POST http://localhost:64410/session/d5a82b67061a1dd51f701a2b530abdae/url {"url": "https://www.flipkart.com/search?q=Iphone+13"}
+2023-10-16 12:30:20,588 - DEBUG - http://localhost:64410 "POST /session/d5a82b67061a1dd51f701a2b530abdae/url HTTP/1.1" 200 14
+2023-10-16 12:30:20,589 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:20,589 - DEBUG - Finished Request
+2023-10-16 12:30:20,590 - DEBUG - POST http://localhost:64410/session/d5a82b67061a1dd51f701a2b530abdae/element {"using": "css selector", "value": {"class": "_4rR01T"}}
+2023-10-16 12:30:20,596 - DEBUG - http://localhost:64410 "POST /session/d5a82b67061a1dd51f701a2b530abdae/element HTTP/1.1" 400 993
+2023-10-16 12:30:20,596 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:20,596 - DEBUG - Finished Request
+2023-10-16 12:30:20,596 - ERROR - Error occurred while searching on Flipkart: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:30:20,645 - DEBUG - DELETE http://localhost:64381/session/fb20dd243e70ba0dfbd9a4de69e24587 {}
+2023-10-16 12:30:20,701 - DEBUG - http://localhost:64381 "DELETE /session/fb20dd243e70ba0dfbd9a4de69e24587 HTTP/1.1" 200 14
+2023-10-16 12:30:20,701 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:20,702 - DEBUG - Finished Request
+2023-10-16 12:30:22,760 - DEBUG - DELETE http://localhost:64410/session/d5a82b67061a1dd51f701a2b530abdae {}
+2023-10-16 12:30:22,792 - DEBUG - http://localhost:64410 "DELETE /session/d5a82b67061a1dd51f701a2b530abdae HTTP/1.1" 200 14
+2023-10-16 12:30:22,794 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:22,794 - DEBUG - Finished Request
+2023-10-16 12:30:24,859 - DEBUG - DELETE http://localhost:64400/session/37ae72cb9927e45d1a69d3bfae073854 {}
+2023-10-16 12:30:24,888 - DEBUG - http://localhost:64400 "DELETE /session/37ae72cb9927e45d1a69d3bfae073854 HTTP/1.1" 200 14
+2023-10-16 12:30:24,888 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:24,888 - DEBUG - Finished Request
+2023-10-16 12:30:26,948 - DEBUG - DELETE http://localhost:64390/session/b9399028c2336a7ae5b44f07fa1c3742 {}
+2023-10-16 12:30:26,967 - DEBUG - http://localhost:64390 "DELETE /session/b9399028c2336a7ae5b44f07fa1c3742 HTTP/1.1" 200 14
+2023-10-16 12:30:26,967 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:30:26,967 - DEBUG - Finished Request
+2023-10-16 12:35:40,374 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 1700
+2023-10-16 12:35:40,899 - DEBUG - POST http://localhost:64757/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:35:40,899 - DEBUG - Starting new HTTP connection (1): localhost:64757
+2023-10-16 12:35:41,418 - DEBUG - http://localhost:64757 "POST /session HTTP/1.1" 200 884
+2023-10-16 12:35:41,419 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir1700_1854455782"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64760"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"6a9b504c635cd77549a4855d6aa23bce"}} | headers=HTTPHeaderDict({'Content-Length': '884', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:41,419 - DEBUG - Finished Request
+2023-10-16 12:35:41,425 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 10552
+2023-10-16 12:35:41,936 - DEBUG - POST http://localhost:64766/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:35:41,937 - DEBUG - Starting new HTTP connection (1): localhost:64766
+2023-10-16 12:35:42,458 - DEBUG - http://localhost:64766 "POST /session HTTP/1.1" 200 885
+2023-10-16 12:35:42,458 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir10552_1094080567"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64770"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"dd67c1fef7963e3b26fe743b32210b43"}} | headers=HTTPHeaderDict({'Content-Length': '885', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:42,458 - DEBUG - Finished Request
+2023-10-16 12:35:42,463 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 16240
+2023-10-16 12:35:42,969 - DEBUG - POST http://localhost:64776/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:35:42,970 - DEBUG - Starting new HTTP connection (1): localhost:64776
+2023-10-16 12:35:43,479 - DEBUG - http://localhost:64776 "POST /session HTTP/1.1" 200 885
+2023-10-16 12:35:43,479 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir16240_1810975826"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64781"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"814947a0400f5801a54428051a1ddd1b"}} | headers=HTTPHeaderDict({'Content-Length': '885', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:43,479 - DEBUG - Finished Request
+2023-10-16 12:35:43,489 - DEBUG - Started executable: `C:\Users\Amaan Shaikh\OneDrive - RizviCollegeOfEngineering\Desktop\Backend\myscraper\chromedriver-win64\chromedriver.exe` in a child process with pid: 13972
+2023-10-16 12:35:43,999 - DEBUG - POST http://localhost:64787/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"]}}}}
+2023-10-16 12:35:43,999 - DEBUG - Starting new HTTP connection (1): localhost:64787
+2023-10-16 12:35:44,531 - DEBUG - http://localhost:64787 "POST /session HTTP/1.1" 200 885
+2023-10-16 12:35:44,532 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"118.0.5993.70","chrome":{"chromedriverVersion":"118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})","userDataDir":"C:\\Users\\AMAANS~1\\AppData\\Local\\Temp\\scoped_dir13972_1091003465"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64791"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"50b677b16061293425fcf413de8ecea9"}} | headers=HTTPHeaderDict({'Content-Length': '885', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:44,532 - DEBUG - Finished Request
+2023-10-16 12:35:44,532 - DEBUG - POST http://localhost:64757/session/6a9b504c635cd77549a4855d6aa23bce/url {"url": "https://www.croma.com/search/?text=Iphone%2013"}
+2023-10-16 12:35:46,992 - DEBUG - http://localhost:64757 "POST /session/6a9b504c635cd77549a4855d6aa23bce/url HTTP/1.1" 200 14
+2023-10-16 12:35:46,993 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:46,993 - DEBUG - Finished Request
+2023-10-16 12:35:47,125 - DEBUG - POST http://localhost:64757/session/6a9b504c635cd77549a4855d6aa23bce/element {"using": "css selector", "value": {"class": "product-title"}}
+2023-10-16 12:35:47,125 - DEBUG - http://localhost:64757 "POST /session/6a9b504c635cd77549a4855d6aa23bce/element HTTP/1.1" 400 993
+2023-10-16 12:35:47,125 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:47,125 - DEBUG - Finished Request
+2023-10-16 12:35:47,125 - ERROR - Error occurred while searching on Croma: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:35:47,131 - DEBUG - POST http://localhost:64766/session/dd67c1fef7963e3b26fe743b32210b43/url {"url": "https://www.vijaysales.com/search/Iphone-13"}
+2023-10-16 12:35:51,408 - DEBUG - http://localhost:64766 "POST /session/dd67c1fef7963e3b26fe743b32210b43/url HTTP/1.1" 200 14
+2023-10-16 12:35:51,408 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:51,408 - DEBUG - Finished Request
+2023-10-16 12:35:51,408 - DEBUG - POST http://localhost:64766/session/dd67c1fef7963e3b26fe743b32210b43/element {"using": "css selector", "value": {"class": "Dynamic-Bucket-ProductName"}}
+2023-10-16 12:35:51,421 - DEBUG - http://localhost:64766 "POST /session/dd67c1fef7963e3b26fe743b32210b43/element HTTP/1.1" 400 993
+2023-10-16 12:35:51,425 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:51,425 - DEBUG - Finished Request
+2023-10-16 12:35:51,425 - ERROR - Error occurred while searching on Vijay Sales: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:35:51,425 - DEBUG - POST http://localhost:64776/session/814947a0400f5801a54428051a1ddd1b/url {"url": "https://www.amazon.in/s?k=Iphone+13"}
+2023-10-16 12:35:53,152 - DEBUG - http://localhost:64776 "POST /session/814947a0400f5801a54428051a1ddd1b/url HTTP/1.1" 200 14
+2023-10-16 12:35:53,153 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:53,153 - DEBUG - Finished Request
+2023-10-16 12:35:53,155 - DEBUG - POST http://localhost:64776/session/814947a0400f5801a54428051a1ddd1b/element {"using": "css selector", "value": {"class": "a-text-normal"}}
+2023-10-16 12:35:53,158 - DEBUG - http://localhost:64776 "POST /session/814947a0400f5801a54428051a1ddd1b/element HTTP/1.1" 400 993
+2023-10-16 12:35:53,158 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:53,159 - DEBUG - Finished Request
+2023-10-16 12:35:53,159 - ERROR - Error occurred while searching on Amazon: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:35:53,160 - DEBUG - POST http://localhost:64787/session/50b677b16061293425fcf413de8ecea9/url {"url": "https://www.flipkart.com/search?q=Iphone+13"}
+2023-10-16 12:35:56,445 - DEBUG - http://localhost:64787 "POST /session/50b677b16061293425fcf413de8ecea9/url HTTP/1.1" 200 14
+2023-10-16 12:35:56,445 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:56,445 - DEBUG - Finished Request
+2023-10-16 12:35:56,447 - DEBUG - POST http://localhost:64787/session/50b677b16061293425fcf413de8ecea9/element {"using": "css selector", "value": {"class": "_4rR01T"}}
+2023-10-16 12:35:56,450 - DEBUG - http://localhost:64787 "POST /session/50b677b16061293425fcf413de8ecea9/element HTTP/1.1" 400 993
+2023-10-16 12:35:56,450 - DEBUG - Remote response: status=400 | data={"value":{"error":"invalid argument","message":"invalid argument: 'value' must be a string\n  (Session info: chrome=118.0.5993.70)","stacktrace":"\tGetHandleVerifier [0x00007FF642BC8EF2+54786]\n\t(No symbol) [0x00007FF642B35612]\n\t(No symbol) [0x00007FF6429EA64B]\n\t(No symbol) [0x00007FF642A2B69F]\n\t(No symbol) [0x00007FF642A2B91C]\n\t(No symbol) [0x00007FF642A66D87]\n\t(No symbol) [0x00007FF642A4BEAF]\n\t(No symbol) [0x00007FF642A64D02]\n\t(No symbol) [0x00007FF642A4BC43]\n\t(No symbol) [0x00007FF642A20941]\n\t(No symbol) [0x00007FF642A21B84]\n\tGetHandleVerifier [0x00007FF642F17F52+3524194]\n\tGetHandleVerifier [0x00007FF642F6D800+3874576]\n\tGetHandleVerifier [0x00007FF642F65D7F+3843215]\n\tGetHandleVerifier [0x00007FF642C65086+694166]\n\t(No symbol) [0x00007FF642B40A88]\n\t(No symbol) [0x00007FF642B3CA94]\n\t(No symbol) [0x00007FF642B3CBC2]\n\t(No symbol) [0x00007FF642B2CC83]\n\tBaseThreadInitThunk [0x00007FFD0BDE26AD+29]\n\tRtlUserThreadStart [0x00007FFD0CF0A9F8+40]\n"}} | headers=HTTPHeaderDict({'Content-Length': '993', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:56,450 - DEBUG - Finished Request
+2023-10-16 12:35:56,451 - ERROR - Error occurred while searching on Flipkart: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+	GetHandleVerifier [0x00007FF642BC8EF2+54786]
+	(No symbol) [0x00007FF642B35612]
+	(No symbol) [0x00007FF6429EA64B]
+	(No symbol) [0x00007FF642A2B69F]
+	(No symbol) [0x00007FF642A2B91C]
+	(No symbol) [0x00007FF642A66D87]
+	(No symbol) [0x00007FF642A4BEAF]
+	(No symbol) [0x00007FF642A64D02]
+	(No symbol) [0x00007FF642A4BC43]
+	(No symbol) [0x00007FF642A20941]
+	(No symbol) [0x00007FF642A21B84]
+	GetHandleVerifier [0x00007FF642F17F52+3524194]
+	GetHandleVerifier [0x00007FF642F6D800+3874576]
+	GetHandleVerifier [0x00007FF642F65D7F+3843215]
+	GetHandleVerifier [0x00007FF642C65086+694166]
+	(No symbol) [0x00007FF642B40A88]
+	(No symbol) [0x00007FF642B3CA94]
+	(No symbol) [0x00007FF642B3CBC2]
+	(No symbol) [0x00007FF642B2CC83]
+	BaseThreadInitThunk [0x00007FFD0BDE26AD+29]
+	RtlUserThreadStart [0x00007FFD0CF0A9F8+40]
+
+2023-10-16 12:35:56,491 - DEBUG - DELETE http://localhost:64757/session/6a9b504c635cd77549a4855d6aa23bce {}
+2023-10-16 12:35:56,545 - DEBUG - http://localhost:64757 "DELETE /session/6a9b504c635cd77549a4855d6aa23bce HTTP/1.1" 200 14
+2023-10-16 12:35:56,545 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:56,545 - DEBUG - Finished Request
+2023-10-16 12:35:58,602 - DEBUG - DELETE http://localhost:64787/session/50b677b16061293425fcf413de8ecea9 {}
+2023-10-16 12:35:58,633 - DEBUG - http://localhost:64787 "DELETE /session/50b677b16061293425fcf413de8ecea9 HTTP/1.1" 200 14
+2023-10-16 12:35:58,633 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:35:58,633 - DEBUG - Finished Request
+2023-10-16 12:36:00,715 - DEBUG - DELETE http://localhost:64776/session/814947a0400f5801a54428051a1ddd1b {}
+2023-10-16 12:36:00,753 - DEBUG - http://localhost:64776 "DELETE /session/814947a0400f5801a54428051a1ddd1b HTTP/1.1" 200 14
+2023-10-16 12:36:00,753 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:36:00,753 - DEBUG - Finished Request
+2023-10-16 12:36:02,803 - DEBUG - DELETE http://localhost:64766/session/dd67c1fef7963e3b26fe743b32210b43 {}
+2023-10-16 12:36:02,841 - DEBUG - http://localhost:64766 "DELETE /session/dd67c1fef7963e3b26fe743b32210b43 HTTP/1.1" 200 14
+2023-10-16 12:36:02,841 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-10-16 12:36:02,841 - DEBUG - Finished Request
