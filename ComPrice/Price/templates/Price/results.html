@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ComPrice - Search Results</title>
+    {% load static %}
+    <link href="{% static 'Price/css/stylesearchresults.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a class="navbar-brand" href="{% url 'home' %}">ComPrice</a>
+        </nav>
+    </header>
+
+    <div class="table-container">
+        <div class="row">
+            <div class="cell" id="amazon-results">
+                <h3>Amazon</h3>
+                <div class="product">
+                    <img id="amazon-image" src="{{ amazon_result.image_url }}" alt="Amazon Product">
+                    <h4 id="amazon-title">{{ amazon_result.title }}</h4>
+                    <p id="amazon-price">Price: ₹{{ amazon_result.price }}</p>
+                    <a id="amazon-link" href="{{ amazon_result.link }}" target="_blank">View on Amazon</a>
+                </div>
+            </div>
+
+            <div class="cell" id="flipkart-results">
+                <h3>Flipkart</h3>
+                <div class="product">
+                    <img id="flipkart-image" src="{{ flipkart_result.image_url }}" alt="Flipkart Product">
+                    <h4 id="flipkart-title">{{ flipkart_result.title }}</h4>
+                    <p id="flipkart-price">Price: ₹{{ flipkart_result.price }}</p>
+                    <a id="flipkart-link" href="{{ flipkart_result.link }}" target="_blank">View on Flipkart</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="cell" id="croma-results">
+                <h3>Croma</h3>
+                <div class="product">
+                    <img id="croma-image" src="{{ croma_result.image_url }}" alt="Croma Product">
+                    <h4 id="croma-title">{{ croma_result.title }}</h4>
+                    <p id="croma-price">Price: ₹{{ croma_result.price }}</p>
+                    <a id="croma-link" href="{{ croma_result.link }}" target="_blank">View on Croma</a>
+                </div>
+            </div>
+
+            <div class="cell" id="vijaysales-results">
+                <h3>Vijay Sales</h3>
+                <div class="product">
+                    <img id="vijaysales-image" src="{{ vijaysales_result.image_url }}" alt="Vijay Sales Product">
+                    <h4 id="vijaysales-title">{{ vijaysales_result.title }}</h4>
+                    <p id="vijaysales-price">Price: ₹{{ vijaysales_result.price }}</p>
+                    <a id="vijaysales-link" href="{{ vijaysales_result.link }}" target="_blank">View on Vijay Sales</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <!-- Your footer code here -->
+    </footer>
+    <script src="{% static 'Price/js/searchresults.js' %}"></script>
+</body>
+</html>

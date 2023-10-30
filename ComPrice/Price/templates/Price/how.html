@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How It Works</title>
+    {% load static %} <!-- Load the static template tag -->
+    <link href="{% static 'Price/css/styleaboutus.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <footer>
+        <div>
+            <h1>Unlock the Magic</h1>
+            <p>Ever wondered how ComPrice works its enchantment? It's a tale of innovation and tech wizardry!</p>
+            <p>Our secret ingredients? Cutting-edge algorithms and a sprinkle of web-savvy sorcery. We scour the digital realm to unveil the best prices, making your shopping wishes come true.</p>
+            <p>Curious to dive deeper into the mystical world of ComPrice? Join us in this epic journey by clicking the button below.</p>
+            <p>Your price comparison website is built using Python and Django, with web scraping powered by Beautiful Soup and Selenium. When a user enters a product name to compare prices,
+                the backend processes the query and utilizes Selenium to scrape data from e-commerce websites like Amazon, Flipkart, Chroma, and Vijay Sales. Selenium simulates human interaction 
+                to bypass web scraping restrictions. Beautiful Soup extracts data from the websites' HTML structure, and prices are converted to floating-point numbers for comparison. The scraped 
+                products are stored in a list, which is sorted to identify the most affordable product with the lowest price. This information is then displayed on the search page, allowing users
+                to make informed purchasing decisions by clicking on the product link to access the e-commerce site directly.</p>
+            <a href="{% url 'home' %}" class="magical-button">Back</a> <!-- Use the 'home' URL name to link back to the home page -->
+        </div>
+    </footer>
+</body>
+</html>

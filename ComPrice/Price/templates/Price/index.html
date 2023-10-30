@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    {% load static %}
+    <link href="{% static 'Price/css/styles.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="header">
+        <div class="nav-menu">
+            <div class="logo">ComPrice</div>
+            <div class="menu">
+                <ul>
+                    
+                    <li><a href="{% url 'aboutus' %}">About us</a></li>
+                    <li><a href="{% url 'contactus' %}">Contact us</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="banner"> 
+            <h1>Compare, Shop, Save. </h1>
+            <p>Priceless Savings, Just a Click Away!</p>
+            <a href="{% url 'Search' %}"> Compare </a>
+        </div>
+        </div>
+        <div class="why">
+            <h2>Why ComPrice?</h2>
+            <p>ComPrice is your go-to platform for comparing prices of gadgets across multiple e-commerce platforms like Amazon, Flipkart, Croma, and Vijay Sales.
+                Our team of experts goes the extra mile to find you the best deals and save you time, money, and effort.
+                With a user-friendly and interactive design, navigating through ComPrice is a breeze. Get started and find your next gadget at the best price today!</p>
+        </div>
+        </div>
+        <footer>
+            <h1>We Find, You Save</h1>
+            <p>Stressing the importance of saving money by finding the best price </p>
+    
+            <p class="txt">"Welcome to <b>ComPrice</b>, where shopping gets cool! We're <b>Kameha Coders</b>, on a mission to jazz up your shopping game. Our goal? Unearthing the hottest deals for your favorite products. Our user-friendly platform serves up real-time insights, making sure you're getting the juiciest bargains. Trust us to save you time and cash, so you can shop with swag. Join the groove and start comparing prices today with <b>ComPrice!</b>"</p>
+    
+        
+            <a href="{% url 'how' %}"> How It Works? </a>
+    
+        <span> &copy; Website design by <b>Amaan Shaikh S, Imran Ansari , Faizan Shaik</b>  </span>
+        </footer>
+    </div>
+</body>
+</html>

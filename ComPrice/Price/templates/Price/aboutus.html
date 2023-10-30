@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    {% load static %} <!-- Load the static template tag -->
+    <link href="{% static 'Price/css/styleaboutus.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <footer>
+        <div>
+            <h1>About Us</h1>
+            <p>
+                At ComPrice, we're dedicated to making your shopping decisions easier. Our mission is simple: to help you find the best prices for the products you love. Our user-friendly platform offers transparent and up-to-date information, ensuring you get the most value for your money. Trust us to save you time and money, so you can shop with confidence. Start comparing prices today with ComPrice.
+            </p>
+            <a href="{% url 'home' %}">Back</a> <!-- Use the 'home' URL name to link back to the home page -->
+        </div>
+    </footer>
+</body>
+</html>

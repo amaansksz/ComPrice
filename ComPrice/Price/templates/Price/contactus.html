@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    {% load static %} <!-- Load the static template tag -->
+    <link href="{% static 'Price/css/styleaboutus.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <footer>
+        <div>
+            <h1>Contact Us</h1>
+            <p>
+                <Address>
+                    Rizvi Educational Complex Off Carter Road, Sherly Rajan Rd, Bandra West, Mumbai, Maharashtra 400050
+                </Address>
+                <p>Phone: 7710813202</p>
+                <p>Email: amaansksz@gmail.com</p>
+            </p>
+            <a href="{% url 'home' %}">Back</a> <!-- Use the 'home' URL name to link back to the home page -->
+        </div>
+    </footer>
+</body>
+</html>
